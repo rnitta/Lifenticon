@@ -1,4 +1,4 @@
-# Lifenticon
+# Identicon Automaton
 This app is developed for [Flutter Create Contest](https://flutter.dev/create).  
 The executable codes written in dart is no more than 5KB.
 
