@@ -1,0 +1,20 @@
+name: Lifenticon
+description: Life of Identicon.
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  crypto: ^2.0.6
+  cupertino_icons: ^0.1.2
+  flutter_screenutil: ^0.4.2
+  image: ^2.0.7
+  image_picker_saver: ^0.1.0
+  path_provider: ^0.5.0
+
+flutter:
+  uses-material-design: true
