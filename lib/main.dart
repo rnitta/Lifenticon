@@ -148,7 +148,7 @@ class _State extends State<Home> {
             primary: true,
             physics: const NeverScrollableScrollPhysics(),
             crossAxisCount: 7,
-            children: List<Widget>.generate(gN, (i) => Container(color: _field[i] ? _cC : _bC))
+            children: List<Widget>.generate(gN, (i) => Padding(padding: EdgeInsets.all(1), child: Container(color: _field[i] ? _cC : _bC)))
           ))));
   }
 }

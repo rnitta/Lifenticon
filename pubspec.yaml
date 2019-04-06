@@ -1,6 +1,7 @@
 name: identicon_automaton
 description: Life of Identicon.
-
+author: rnitta
+repository: https://github.com/rnitta/Lifenticon
 version: 1.0.0
 
 environment:
